@@ -1,4 +1,4 @@
-# ACL-ActionLearner
+# AcL-ActionLearner
 
 ## TODO
 - Training configs for teacher policies
