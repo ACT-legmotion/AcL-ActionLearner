@@ -16,20 +16,18 @@
             <img src="video&pics/RR.gif" width="100%">
             <p>The quadruped can adaptively switch its gait when faults occur and are resolved without any command given. (Faults on RR)</p>
         </td>
-    </tr>
-    <tr>
         <td align="center">
             <img src="video&pics/KICKING.gif" width="100%">
             <p>The quadruped can resist kicking.</p>
         </td>
+    </tr>
+    <tr>
         <td align="center">
             <img src="video&pics/LOADING.gif" width="100%">
             <p>The quadruped can stably load parcels. (This parcel is 1.1kg and not strictly fixed on the quadruped)</p>
         </td>
-    </tr>
-    <tr>
-        <td align="center" colspan="2">
-            <img src="video&pics/CROSS.gif" width="50%">
+        <td align="center">
+            <img src="video&pics/CROSS.gif" width="100%">
             <p>The quadruped can cross surfaces with different textures in a single locomotion task.</p>
         </td>
     </tr>
