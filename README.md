@@ -6,33 +6,34 @@
 
 ### Real World Deployment
 
-<p align="center">
-    <img src="video&pics/LR.gif" width="45%" />
-    <img src="video&pics/RR.gif" width="45%" />
-</p>
-<p align="center">
-    The quadruped can adaptively switch its gait when faults occur and are resolved without any command given. (Faults on LR)  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    The quadruped can adaptively switch its gait when faults occur and are resolved without any command given. (Faults on RR)
-</p>
-
-<p align="center">
-    <img src="video&pics/KICKING.gif" width="45%" />
-    <img src="video&pics/LOADING.gif" width="45%" />
-</p>
-<p align="center">
-    The quadruped can resist kicking.  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    The quadruped can stably load parcels. (This parcel is 1.1kg and not strictly fixed on the quadruped)
-</p>
-
-<p align="center">
-    <img src="video&pics/CROSS.gif" width="45%" />
-</p>
-<p align="center">
-    The quadruped can cross surfaces with different textures in a single locomotion task.
-</p>
-
+<table align="center">
+    <tr>
+        <td align="center">
+            <img src="video&pics/LR.gif" width="100%">
+            <p>The quadruped can adaptively switch its gait when faults occur and are resolved without any command given. (Faults on LR)</p>
+        </td>
+        <td align="center">
+            <img src="video&pics/RR.gif" width="100%">
+            <p>The quadruped can adaptively switch its gait when faults occur and are resolved without any command given. (Faults on RR)</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <img src="video&pics/KICKING.gif" width="100%">
+            <p>The quadruped can resist kicking.</p>
+        </td>
+        <td align="center">
+            <img src="video&pics/LOADING.gif" width="100%">
+            <p>The quadruped can stably load parcels. (This parcel is 1.1kg and not strictly fixed on the quadruped)</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center" colspan="2">
+            <img src="video&pics/CROSS.gif" width="50%">
+            <p>The quadruped can cross surfaces with different textures in a single locomotion task.</p>
+        </td>
+    </tr>
+</table>
 
 
 ## TODO
