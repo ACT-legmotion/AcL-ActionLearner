@@ -6,6 +6,22 @@
 
 ### Real World Deployment
 
+![LR](video&pics/LR.gif)  
+The quadruped can adaptively switch its gait when faults occur and are resolved without any command given. (Faults on LR)
+
+![RR](video&pics/RR.gif)  
+The quadruped can adaptively switch its gait when faults occur and are resolved without any command given. (Faults on RR)
+
+![KICKING](video&pics/KICKING.gif)  
+The quadruped can resist kicking.
+
+![LOADING](video&pics/LOADING.gif)  
+The quadruped can stably load parcels. (This parcel is 1.1kg and not strictly fixed on the quadruped)
+
+![CROSS](video&pics/CROSS.gif)  
+The quadruped can cross surfaces with different textures in a single locomotion task.
+
+
 ## TODO
 - Training configs for teacher policies
 - Training codes for both teacher policies and the student policy based on [legged_gym](https://github.com/leggedrobotics/legged_gym) and [rsl_rl](https://github.com/leggedrobotics/rsl_rl)
