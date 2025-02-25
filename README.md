@@ -6,20 +6,33 @@
 
 ### Real World Deployment
 
-![LR](video&pics/LR.gif)  
-The quadruped can adaptively switch its gait when faults occur and are resolved without any command given. (Faults on LR)
+<p align="center">
+    <img src="video&pics/LR.gif" width="45%" />
+    <img src="video&pics/RR.gif" width="45%" />
+</p>
+<p align="center">
+    The quadruped can adaptively switch its gait when faults occur and are resolved without any command given. (Faults on LR)  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    The quadruped can adaptively switch its gait when faults occur and are resolved without any command given. (Faults on RR)
+</p>
 
-![RR](video&pics/RR.gif)  
-The quadruped can adaptively switch its gait when faults occur and are resolved without any command given. (Faults on RR)
+<p align="center">
+    <img src="video&pics/KICKING.gif" width="45%" />
+    <img src="video&pics/LOADING.gif" width="45%" />
+</p>
+<p align="center">
+    The quadruped can resist kicking.  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    The quadruped can stably load parcels. (This parcel is 1.1kg and not strictly fixed on the quadruped)
+</p>
 
-![KICKING](video&pics/KICKING.gif)  
-The quadruped can resist kicking.
+<p align="center">
+    <img src="video&pics/CROSS.gif" width="45%" />
+</p>
+<p align="center">
+    The quadruped can cross surfaces with different textures in a single locomotion task.
+</p>
 
-![LOADING](video&pics/LOADING.gif)  
-The quadruped can stably load parcels. (This parcel is 1.1kg and not strictly fixed on the quadruped)
-
-![CROSS](video&pics/CROSS.gif)  
-The quadruped can cross surfaces with different textures in a single locomotion task.
 
 
 ## TODO
