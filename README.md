@@ -18,7 +18,7 @@
         </td>
         <td align="center" width="33%">
             <img src="video&pics/KICKING.gif" width="100%" height="auto">
-            <p>The quadruped can resist kicking.</p>
+            <p>The quadruped can resist kicking when performing both normal gait and fault gaits.</p>
         </td>
     </tr>
     <tr>
