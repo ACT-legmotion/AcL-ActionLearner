@@ -1,5 +1,17 @@
 # AcL-ActionLearner
 
+## FRAMEWORK
+
+![Overview](video&pics/framework.png)
+
+**Overview.** A teacher-student framework is applied to train a single agent to learn multiple gaits. 
+Teacher policies are trained in advance separately to address different fault cases. The policy backbone 
+is an encoder-decoder architectural network. The encoder and decoder are both trained online while parameters 
+are renewed dividedly. The encoder is trained via a supervised method. The decoder is trained via an RL method. 
+The rewards include 2 parts, style rewards based on the similarity between teacher policies and the student policy, 
+and the regularization rewards that ensure robust locomotion. The trained agent can adaptively switch from different cases.
+
+
 ## VIDEOS
 
 ### Teacher Polices Shown in Gazebo
