@@ -20,7 +20,7 @@ and the regularization rewards that ensure robust locomotion. The trained agent 
 <table align="center" width="100%">
     <tr>
         <td align="center" colspan="6">
-            <img src="video&pics/re0.gif" width="100%" height="150px">
+            <img src="video&pics/re0.gif" height="150px">
         </td>
     </tr>
 </table>
@@ -28,26 +28,27 @@ and the regularization rewards that ensure robust locomotion. The trained agent 
 #### Single-leg Fault
 <table align="center" width="100%">
     <tr>
-        <td align="center" width="16.6%"><img src="video&pics/re1.gif" width="100%" height="150px"></td>
-        <td align="center" width="16.6%"><img src="video&pics/re2.gif" width="100%" height="150px"></td>
-        <td align="center" width="16.6%"><img src="video&pics/re3.gif" width="100%" height="150px"></td>
-        <td align="center" width="16.6%"><img src="video&pics/re4.gif" width="100%" height="150px"></td>
-        <td align="center" width="16.6%"></td>
-        <td align="center" width="16.6%"></td>
+        <td align="center" colspan="6">
+            <img src="video&pics/re1.gif" height="150px">
+            <img src="video&pics/re1.gif" height="150px">
+            <img src="video&pics/re3.gif" height="150px">
+            <img src="video&pics/re4.gif" height="150px">
+        </td>
     </tr>
 </table>
 
 #### Double-leg Fault
 <table align="center" width="100%">
     <tr>
-        <td align="center" width="16.6%"><img src="video&pics/re5.gif" width="100%" height="150px"></td>
-        <td align="center" width="16.6%"><img src="video&pics/re6.gif" width="100%" height="150px"></td>
-        <td align="center" width="16.6%"><img src="video&pics/re7.gif" width="100%" height="150px"></td>
-        <td align="center" width="16.6%"><img src="video&pics/re8.gif" width="100%" height="150px"></td>
-        <td align="center" width="16.6%"><img src="video&pics/re9.gif" width="100%" height="150px"></td>
-        <td align="center" width="16.6%"><img src="video&pics/re10.gif" width="100%" height="150px"></td>
+        <td align="center"><img src="video&pics/re5.gif" height="150px"></td>
+        <td align="center"><img src="video&pics/re6.gif" height="150px"></td>
+        <td align="center"><img src="video&pics/re7.gif" height="150px"></td>
+        <td align="center"><img src="video&pics/re8.gif" height="150px"></td>
+        <td align="center"><img src="video&pics/re9.gif" height="150px"></td>
+        <td align="center"><img src="video&pics/re10.gif" height="150px"></td>
     </tr>
 </table>
+
 
 
 
