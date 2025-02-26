@@ -19,12 +19,9 @@ and the regularization rewards that ensure robust locomotion. The trained agent 
 #### Normal Case
 <table align="center" width="100%">
     <tr>
-        <td align="center" width="16.6%"><img src="video&pics/re0.gif" width="100%"></td>
-        <td width="16.6%"></td>
-        <td width="16.6%"></td>
-        <td width="16.6%"></td>
-        <td width="16.6%"></td>
-        <td width="16.6%"></td>
+        <td align="center" colspan="6">
+            <img src="video&pics/re0.gif" width="50%">
+        </td>
     </tr>
 </table>
 
@@ -35,8 +32,8 @@ and the regularization rewards that ensure robust locomotion. The trained agent 
         <td align="center" width="16.6%"><img src="video&pics/re1.gif" width="100%"></td>
         <td align="center" width="16.6%"><img src="video&pics/re3.gif" width="100%"></td>
         <td align="center" width="16.6%"><img src="video&pics/re4.gif" width="100%"></td>
-        <td width="16.6%"></td>
-        <td width="16.6%"></td>
+        <td align="center" width="16.6%"></td>
+        <td align="center" width="16.6%"></td>
     </tr>
 </table>
 
@@ -51,6 +48,7 @@ and the regularization rewards that ensure robust locomotion. The trained agent 
         <td align="center" width="16.6%"><img src="video&pics/re10.gif" width="100%"></td>
     </tr>
 </table>
+
 
 
 
