@@ -19,7 +19,7 @@ and the regularization rewards that ensure robust locomotion. The trained agent 
 #### Normal Case
 <table align="center" width="100%">
     <tr>
-        <td align="center" colspan="6">
+        <td align="left" colspan="6">
             <img src="video&pics/re0.gif" height="100px">
         </td>
     </tr>
@@ -28,7 +28,7 @@ and the regularization rewards that ensure robust locomotion. The trained agent 
 #### Single-leg Fault
 <table align="center" width="100%">
     <tr>
-        <td align="center" colspan="6">
+        <td align="left" colspan="6">
             <img src="video&pics/re1.gif" height="100px">
             <img src="video&pics/re1.gif" height="100px">
             <img src="video&pics/re3.gif" height="100px">
@@ -38,7 +38,7 @@ and the regularization rewards that ensure robust locomotion. The trained agent 
 </table>
 
 #### Double-leg Fault
-<table align="center" width="100%">
+<table align="left" width="100%">
     <tr>
         <td align="center"><img src="video&pics/re5.gif" height="100px"></td>
         <td align="center"><img src="video&pics/re6.gif" height="100px"></td>
