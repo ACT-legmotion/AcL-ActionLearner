@@ -48,6 +48,9 @@ and the regularization rewards that ensure robust locomotion. The trained agent 
 
 
 ## TODO
+
+After acceptance we will release all the following code!
+
 - Training configs for teacher policies
 - Training codes for both teacher policies and the student policy based on [legged_gym](https://github.com/leggedrobotics/legged_gym) and [rsl_rl](https://github.com/leggedrobotics/rsl_rl)
 - Checkpoints for teacher policies, encoder, and decoder
