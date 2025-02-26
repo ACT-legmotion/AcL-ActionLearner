@@ -49,6 +49,38 @@ and the regularization rewards that ensure robust locomotion. The trained agent 
     </tr>
 </table>
 
+#### Normal Case
+<table width="100%">
+    <tr>
+        <td align="left" colspan="6">
+            <img src="video&pics/re0.gif" height="100px">
+        </td>
+    </tr>
+</table>
+
+#### Single-leg Fault
+<table width="100%">
+    <tr>
+        <td align="left"><img src="video&pics/re1.gif" height="100px"></td>
+        <td align="left"><img src="video&pics/re1.gif" height="100px"></td>
+        <td align="left"><img src="video&pics/re3.gif" height="100px"></td>
+        <td align="left"><img src="video&pics/re4.gif" height="100px"></td>
+        <td align="left"></td>
+        <td align="left"></td>
+    </tr>
+</table>
+
+#### Double-leg Fault
+<table width="100%">
+    <tr>
+        <td align="left"><img src="video&pics/re5.gif" height="100px"></td>
+        <td align="left"><img src="video&pics/re6.gif" height="100px"></td>
+        <td align="left"><img src="video&pics/re7.gif" height="100px"></td>
+        <td align="left"><img src="video&pics/re8.gif" height="100px"></td>
+        <td align="left"><img src="video&pics/re9.gif" height="100px"></td>
+        <td align="left"><img src="video&pics/re10.gif" height="100px"></td>
+    </tr>
+</table>
 
 
 
