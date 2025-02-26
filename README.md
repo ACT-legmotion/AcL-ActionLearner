@@ -65,8 +65,6 @@ and the regularization rewards that ensure robust locomotion. The trained agent 
         <td align="left"><img src="video&pics/re1.gif" height="100px"></td>
         <td align="left"><img src="video&pics/re3.gif" height="100px"></td>
         <td align="left"><img src="video&pics/re4.gif" height="100px"></td>
-        <td align="left"></td>
-        <td align="left"></td>
     </tr>
 </table>
 
