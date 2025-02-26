@@ -16,6 +16,40 @@ and the regularization rewards that ensure robust locomotion. The trained agent 
 
 ### Teacher Polices Shown in Gazebo
 
+#### Normal Case
+<table align="center">
+    <tr>
+        <td align="center">
+            <img src="video&pics/re0.gif" width="100%">
+        </td>
+    </tr>
+</table>
+
+#### Single-leg Fault
+<table align="center">
+    <tr>
+        <td align="center"><img src="video&pics/re1.gif" width="100%"></td>
+        <td align="center"><img src="video&pics/re1.gif" width="100%"></td>
+        <td align="center"><img src="video&pics/re3.gif" width="100%"></td>
+        <td align="center"><img src="video&pics/re4.gif" width="100%"></td>
+    </tr>
+</table>
+
+#### Double-leg Fault
+<table align="center">
+    <tr>
+        <td align="center"><img src="video&pics/re5.gif" width="100%"></td>
+        <td align="center"><img src="video&pics/re6.gif" width="100%"></td>
+        <td align="center"><img src="video&pics/re7.gif" width="100%"></td>
+        <td align="center"><img src="video&pics/re8.gif" width="100%"></td>
+    </tr>
+    <tr>
+        <td align="center"><img src="video&pics/re9.gif" width="100%"></td>
+        <td align="center"><img src="video&pics/re10.gif" width="100%"></td>
+    </tr>
+</table>
+
+
 ### Real World Deployment
 
 <table align="center">
