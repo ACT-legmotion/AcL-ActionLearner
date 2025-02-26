@@ -20,7 +20,7 @@ and the regularization rewards that ensure robust locomotion. The trained agent 
 <table align="center" width="100%">
     <tr>
         <td align="center" colspan="6">
-            <img src="video&pics/re0.gif" height="150px">
+            <img src="video&pics/re0.gif" height="100px">
         </td>
     </tr>
 </table>
@@ -29,10 +29,10 @@ and the regularization rewards that ensure robust locomotion. The trained agent 
 <table align="center" width="100%">
     <tr>
         <td align="center" colspan="6">
-            <img src="video&pics/re1.gif" height="150px">
-            <img src="video&pics/re1.gif" height="150px">
-            <img src="video&pics/re3.gif" height="150px">
-            <img src="video&pics/re4.gif" height="150px">
+            <img src="video&pics/re1.gif" height="100px">
+            <img src="video&pics/re1.gif" height="100px">
+            <img src="video&pics/re3.gif" height="100px">
+            <img src="video&pics/re4.gif" height="100px">
         </td>
     </tr>
 </table>
@@ -40,12 +40,12 @@ and the regularization rewards that ensure robust locomotion. The trained agent 
 #### Double-leg Fault
 <table align="center" width="100%">
     <tr>
-        <td align="center"><img src="video&pics/re5.gif" height="150px"></td>
-        <td align="center"><img src="video&pics/re6.gif" height="150px"></td>
-        <td align="center"><img src="video&pics/re7.gif" height="150px"></td>
-        <td align="center"><img src="video&pics/re8.gif" height="150px"></td>
-        <td align="center"><img src="video&pics/re9.gif" height="150px"></td>
-        <td align="center"><img src="video&pics/re10.gif" height="150px"></td>
+        <td align="center"><img src="video&pics/re5.gif" height="100px"></td>
+        <td align="center"><img src="video&pics/re6.gif" height="100px"></td>
+        <td align="center"><img src="video&pics/re7.gif" height="100px"></td>
+        <td align="center"><img src="video&pics/re8.gif" height="100px"></td>
+        <td align="center"><img src="video&pics/re9.gif" height="100px"></td>
+        <td align="center"><img src="video&pics/re10.gif" height="100px"></td>
     </tr>
 </table>
 
