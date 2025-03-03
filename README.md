@@ -84,6 +84,7 @@ and the regularization rewards that ensure robust locomotion. The trained agent 
 **After acceptance we will release all the following code!**
 
 - Training configs for teacher policies
+- Pre-training codes for student policy encoder & decoder
 - Training codes for both teacher policies and the student policy based on [legged_gym](https://github.com/leggedrobotics/legged_gym) and [rsl_rl](https://github.com/leggedrobotics/rsl_rl)
 - Checkpoints for teacher policies, encoder, and decoder
 - Sim2real suitable for loosing-torque faults manipulation based on [rl_sar](https://github.com/fan-ziqi/rl_sar)
