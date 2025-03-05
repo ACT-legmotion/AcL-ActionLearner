@@ -89,6 +89,9 @@ and the regularization rewards that ensure robust locomotion. The trained agent 
 - Checkpoints for teacher policies, encoder, and decoder
 - Sim2real suitable for loosing-torque faults manipulation based on [rl_sar](https://github.com/fan-ziqi/rl_sar)
 
-## ASKING FOR HELP
+## PRECAUTIONS & ASKING FOR HELP
+
+On surfaces with slight slopes, relatively smooth finishes (such as tiled or wet floors), or minimal disturbances (for example, mosaic tiles, roads with larger gaps between bricks, highways, or lawns with short grass), this policy has been tested and proven valid and stable. However, if you plan to test this policy on extremely slippery surfaces (such as ice or snow), please **be careful**, as we have not yet evaluated its performance under those conditions.
+
 We’re afraid of damaging the quadruped, so we haven’t tested the standing and hand-standing gaits in real cases yet. **We only ensure that policies for these gaits exhibit normal performance in simulation, but we cannot guarantee their performance in real cases so be careful if you need to test them in real cases!**  We will sincerely appreciate it if someone can share checkpoints/training configs that are tested to be valid for Go2 standing and hand-standing in real cases for these gaits!
 
