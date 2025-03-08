@@ -81,8 +81,8 @@ and the regularization rewards that ensure robust locomotion. The trained agent 
     </tr>
     <tr>
         <td align="center" width="33%">
-            <img src="video&pics/CROSS.gif" width="100%" height="auto">
-            <p>The quadruped can cross surfaces with different textures in a single locomotion task.</p>
+            <img src="video&pics/water.gif" width="100%" height="auto">
+            <p>The quadruped can cross slippery surfaces with water.</p>
         </td>
         <td align="center" width="33%">
             <img src="video&pics/KICKING.gif" width="100%" height="auto">
