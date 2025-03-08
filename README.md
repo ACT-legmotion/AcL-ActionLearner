@@ -53,15 +53,37 @@ and the regularization rewards that ensure robust locomotion. The trained agent 
 <table align="center">
     <tr>
         <td align="center" width="33%">
+            <img src="video&pics/LF.gif" width="100%" height="auto">
+            <p>The quadruped can adaptively switch its gait when faults occur and are resolved without any command given. (Faults on LF)</p>
+        </td>
+        <td align="center" width="33%">
+            <img src="video&pics/RF.gif" width="100%" height="auto">
+            <p>The quadruped can adaptively switch its gait when faults occur and are resolved without any command given. (Faults on RF)</p>
+        </td>
+        <td align="center" width="33%">
             <img src="video&pics/LR.gif" width="100%" height="auto">
             <p>The quadruped can adaptively switch its gait when faults occur and are resolved without any command given. (Faults on LR)</p>
         </td>
+    </tr>
+    <tr>
         <td align="center" width="33%">
             <img src="video&pics/RR.gif" width="100%" height="auto">
             <p>The quadruped can adaptively switch its gait when faults occur and are resolved without any command given. (Faults on RR)</p>
         </td>
+        <td align="center" width="33%">
+            <img src="video&pics/LF2RF.gif" width="100%" height="auto">
+            <p>The quadruped can adaptively switch among limping gaits. (normal2LF2RF2normal)</p>
+        </td>
+        <td align="center" width="33%">
+            <img src="video&pics/RR2LR.gif" width="100%" height="auto">
+            <p>The quadruped can adaptively switch among limping gaits. (normal2RR2LR2normal)</p>
+        </td>
     </tr>
     <tr>
+        <td align="center" width="33%">
+            <img src="video&pics/CROSS.gif" width="100%" height="auto">
+            <p>The quadruped can cross surfaces with different textures in a single locomotion task.</p>
+        </td>
         <td align="center" width="33%">
             <img src="video&pics/KICKING.gif" width="100%" height="auto">
             <p>The quadruped can resist kicking when performing both normal gait and fault gaits.</p>
@@ -70,11 +92,9 @@ and the regularization rewards that ensure robust locomotion. The trained agent 
             <img src="video&pics/LOADING.gif" width="100%" height="auto">
             <p>The quadruped can stably load parcels. (This parcel is 1.1kg and not strictly fixed on the quadruped)</p>
         </td>
-        <td align="center" width="33%">
-            <img src="video&pics/CROSS.gif" width="100%" height="auto">
-            <p>The quadruped can cross surfaces with different textures in a single locomotion task.</p>
-        </td>
     </tr>
+
+
 </table>
 
 
