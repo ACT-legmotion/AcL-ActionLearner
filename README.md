@@ -90,7 +90,7 @@ and the regularization rewards that ensure robust locomotion. The trained agent 
         </td>
         <td align="center" width="33%">
             <img src="video&pics/LOADING.gif" width="100%" height="auto">
-            <p>The quadruped can stably load parcels. (This parcel is 1.1kg and not strictly fixed on the quadruped)</p>
+            <p>The quadruped can stably load parcels. (This parcel is 1.1kg and not attached to the quadruped)</p>
         </td>
     </tr>
 
