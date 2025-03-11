@@ -85,7 +85,7 @@ and the regularization rewards that ensure robust locomotion. The trained agent 
             <p>The quadruped can cross slippery surfaces with water.</p>
         </td>
         <td align="center" width="33%">
-            <img src="video&pics/KICKING.gif" width="100%" height="auto">
+            <img src="video&pics/kick_rain.gif" width="100%" height="auto">
             <p>The quadruped can resist kicking when performing both normal gait and fault gaits.</p>
         </td>
         <td align="center" width="33%">
